@@ -1,5 +1,14 @@
 # nd025-DataScience Blog Project
 
+## Table of Contents
+
+1. [Libraries used](#libraries-used)
+1. [Motivation for the project](#motivation-for-the-project)
+1. [Files in the repository](#files-in-the-repository)
+1. [Summary of the results of the analysis](#summary-of-the-results-of-the-analysis)
+1. [Acknowledgments](acknowledgments)
+
+
 ## Libraries used
 * python                    3.8.13
 * pandas                    1.4.2
@@ -30,3 +39,10 @@ Only the *_listings.csv files are used in this project
 ## Summary of the results of the analysis
 
 My results are published at https://schumadi.github.io/
+
+## Acknowledgments
+* [Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle) provided by Kaggle under CC0 1.0 Universal license.
+* [Boston Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/boston) provided by Kaggle under CC0 1.0 Universal license.
+* Foto of Airbnb host Yoshiko provided by Yoshiko unter Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0) license
+
+
